@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://hugo.hackethical.net/*"
+  to = "https://hugo.hackethical.be/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://hugo.hackethical.org/*"
+  to = "https://hugo.hackethical.be/:splat"
+  status = 301
+  force = true
