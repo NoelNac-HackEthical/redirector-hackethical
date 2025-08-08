@@ -27,3 +27,21 @@
   to = "/404.html"
   status = 404
   force = true
+
+[[redirects]]
+  from = "https://www.hackethical.net/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "https://www.hackethical.org/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "https://www.hackethical.be/*"
+  to = "/404.html"
+  status = 404
+  force = true
